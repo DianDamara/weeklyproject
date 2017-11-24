@@ -12,7 +12,7 @@ simpan dan tentukan incorrectTally sama dengan 0
 simpan dan tentukan unansweredTally sama dengan 0
 
 function initialScreen
-	simpan button 'start quiz' pada startScreen
+	: simpan button 'start quiz' pada startScreen
 	tampilkan startScreen
 endfunction
 
